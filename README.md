@@ -28,7 +28,7 @@ The overall workflow for predicting disasters (Flood, Landslide, Tsunami, Earthq
    - Evaluate the models using **classification report metrics**: Accuracy, Precision, Recall, and F1-Score.
    - Generate confusion matrices and ROC curves for visual performance comparison.
 
-> **Summary Statement:**  
+> **Summary**  
 > “We split the dataset into 80% training+validation and 20% testing. A small portion of the training data is used as a validation set. Hyperparameter tuning is performed using randomized search with 3-fold cross-validation to optimize model parameters.”
 
 ---
