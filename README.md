@@ -43,7 +43,7 @@ The overall workflow for predicting disasters (Flood, Landslide, Tsunami, Earthq
 | SVM     | 0.9595  | 0.500    | 0.491  | 0.496    |
 | FNN     | 0.9480  | 0.947    | 0.951  | 0.949    |
 
-### Landslide Prediction
+### Tsunami Prediction
 
 | Model   | Accuracy | Precision | Recall  | F1-Score |
 |:--------|:--------|:---------|:-------|:---------|
@@ -51,7 +51,7 @@ The overall workflow for predicting disasters (Flood, Landslide, Tsunami, Earthq
 | SVM     | 0.8981  | 0.944    | 0.918  | 0.875    |
 | FNN     | 0.8917  | 0.944    | 0.918  | 0.868    |
 
-### Tsunami Prediction
+### Earthquake Prediction
 
 | Model   | Accuracy | Precision | Recall  | F1-Score |
 |:--------|:--------|:---------|:-------|:---------|
@@ -59,7 +59,7 @@ The overall workflow for predicting disasters (Flood, Landslide, Tsunami, Earthq
 | SVM     | 0.958   | 0.96     | 0.96   | 0.96     |
 | FNN     | 0.9285  | 0.93     | 0.925  | 0.93     |
 
-### Earthquake Prediction
+### Landslide Prediction
 
 | Model   | Accuracy | Precision | Recall  | F1-Score |
 |:--------|:--------|:---------|:-------|:---------|
